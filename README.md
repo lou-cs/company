@@ -9,7 +9,7 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**Vision**](url)
 - [**Values**](url)
 
-[anchor](Value-C-Sub-Heading)
+[anchor](###Value-C-Sub-Heading)
 
 # About Circuit Stream
 
@@ -43,6 +43,6 @@ There can be sub-headings nested under each value.
 
 This section describes Value C in a few sentences.
 
-### (Value-C-Sub-Heading)
+(###Value-C-Sub-Heading)
 
 There can be sub-headings nested under each value.
