@@ -46,4 +46,4 @@ This section describes Value C in a few sentences.
 
 There can be sub-headings nested under each value.
 
-<a name="value_c"></a>Value C
+### <a name="value_c"></a>Value C
