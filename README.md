@@ -1,4 +1,4 @@
-# Welcome to Circuit Stream :deciduous_tree:	
+# Welcome to Circuit Stream
 
 This document outlines the mission, vision and values of [Circuit Stream](https://circuitstream.com/).
 
@@ -47,5 +47,3 @@ This section describes Value C in a few sentences.
 ### Value-C-Sub-Heading
 
 There can be sub-headings nested under each value.
-
-### <a name="value_c"></a>Value C
