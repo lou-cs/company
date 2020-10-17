@@ -9,7 +9,9 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**Vision**](url)
 - [**Values**](url)
 
-[create an anchor](anchors-in-markdown)
+[Take me there](#there_you_go)
+[Take me where](#here)
+
 
 # About Circuit Stream
 
@@ -50,3 +52,9 @@ There can be sub-headings nested under each value.
 anchors-in-markdown
 
 create an anchor
+
+
+
+<a name="there_you_go"></a>Take me there
+<a name="here"></a>Take me where
+
