@@ -9,7 +9,7 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**Vision**](url)
 - [**Values**](url)
 
-[create an anchor](#anchors-in-markdown)
+[create an anchor](anchors-in-markdown)
 
 # About Circuit Stream
 
@@ -47,4 +47,6 @@ This section describes Value C in a few sentences.
 
 There can be sub-headings nested under each value.
 
-#anchors-in-markdown
+anchors-in-markdown
+
+create an anchor
