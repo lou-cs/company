@@ -7,7 +7,7 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**About Circuit Stream**](url)
 - [**Mission**](url)
 - [**Vision**](url)
-- [**Values**](url)
+- [**Values**](values)
 
 [Take me there](#there_you_go)
 [Take me where](#here)
@@ -21,7 +21,7 @@ This section describes Circuit Stream's business in a few sentences.
 
 Circuit Stream's mission is XYZ.
 
-# Values
+<a name="values"></a># Values 
 
 Circuit Stream's three values are [A](url), [B](url) and [C](url).
 
@@ -52,9 +52,3 @@ There can be sub-headings nested under each value.
 anchors-in-markdown
 
 create an anchor
-
-
-
-<a name="there_you_go"></a>Take me there
-<a name="here"></a>Take me where
-
