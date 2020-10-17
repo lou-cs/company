@@ -4,13 +4,13 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 
 # Company
 
-- [**About Circuit Stream**](url)
-- [**Mission**](url)
-- [**Vision**](url)
-- [**Values**](values)
-  - [**Value A**](#value_a)
-  - [**Value B**](#value_b)
-  - [**Value C**](#value_c)
+- [About Circuit Stream](url)
+- [Mission](url)
+- [Vision](url)
+- [Values](values)
+  - [Value A](#value_a)
+  - [Value B](#value_b)
+  - [Value C](#value_c)
 
 # About Circuit Stream
 
