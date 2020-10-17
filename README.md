@@ -8,7 +8,9 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**Mission**](url)
 - [**Vision**](url)
 - [**Values**](values)
-- [**Value C**](#value_c)
+  - [**Value A**](#value_a)
+  - [**Value B**](#value_b)
+  - [**Value C**](#value_c)
 
 # About Circuit Stream
 
@@ -18,11 +20,11 @@ This section describes Circuit Stream's business in a few sentences.
 
 Circuit Stream's mission is XYZ.
 
-<a name="values"></a># Values 
+## <a name="values"></a>Values
 
 Circuit Stream's three values are [A](url), [B](url) and [C](url).
 
-## Value A
+## <a name="value_a"></a>Value A
 
 This section describes Value A in a few sentences.
 
@@ -30,7 +32,7 @@ This section describes Value A in a few sentences.
 
 There can be sub-headings nested under each value.
 
-## Value B
+## <a name="value_b"></a>Value B
 
 This section describes Value B in a few sentences.
 
@@ -38,7 +40,7 @@ This section describes Value B in a few sentences.
 
 There can be sub-headings nested under each value.
 
-## Value C
+## <a name="value_c"></a>Value C
 
 This section describes Value C in a few sentences.
 
