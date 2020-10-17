@@ -22,7 +22,7 @@ Circuit Stream's mission is XYZ.
 
 ## <a name="values"></a>Values
 
-Circuit Stream's three values are [A](url), [B](url) and [C](url).
+Circuit Stream's three values are [A](#value_a), [B](#value_b) and [C](#value_c).
 
 ## <a name="value_a"></a>Value A
 
