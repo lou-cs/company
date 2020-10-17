@@ -8,10 +8,7 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [**Mission**](url)
 - [**Vision**](url)
 - [**Values**](values)
-
-[Take me there](#there_you_go)
-[Take me where](#here)
-
+- [**Value C**](#value_c)
 
 # About Circuit Stream
 
@@ -49,6 +46,4 @@ This section describes Value C in a few sentences.
 
 There can be sub-headings nested under each value.
 
-anchors-in-markdown
-
-create an anchor
+<a name="value_c"></a>Value C
