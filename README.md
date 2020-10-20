@@ -5,16 +5,16 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 # Company
 
 - [About Circuit Stream](url)
-- [Mission](url)
+- [Mission](#mission)
 - [Vision](url)
-- [Values](values)
+- [Values](#values)
   - [Diversity](#value_a)
   - [Ownership Mindset](#value_b)
   - [Curiosity](#value_c)
   - [Share Everything You Learn](#value_d)
   - [Lead with Data](#value_e)
 
-# Mission
+## <a name="mission"></a>Mission
 
 Option 1:
 Our mission is to provide the world's best online resources for learning the skills to create immersive experiences.
