@@ -16,9 +16,17 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 
 # Mission
 
-Circuit Stream's mission is to provide the world's best online resources for learning the skills to create immersive virtual and augmented reality experiences. 
+Option 1:
+Our mission is to provide the world's best online resources for learning the skills to create immersive experiences.
 
-## <a name="values"></a>Our Values
+Option 2:
+Our mission is to provide the world's best online resources and learning [] to help professionals develop the skills they need to create immersive AR/VR experiences.
+
+Option 3:
+We provide business professionals with the skills and expertise to design, develop and publish immersive experiences that transform the way people learn, work and play.
+
+
+## <a name="values"></a>Values
 
 Circuit Stream's three values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead with Data](#value_e).
 
