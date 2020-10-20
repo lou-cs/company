@@ -38,14 +38,14 @@ We believe that building a team with diverse life experiences, backgrounds and i
 
 Our mindset is grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
 
-## <a name="value_c"></a>Curiosity
+## <a name="value_c"></a>Structured Exploring
 
-We believe in thinking flexibly, asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
+We believe in exploring, asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
 
 ## <a name="value_d"></a>Share Everything You Learn
 
-We believe every instructor should be regularly creating immersive content and sharing everything they learn in order to ground our work and keep us focused on what matters: our community launching great immersive experiences.
+We believe our team should be regularly creating immersive content and sharing everything we learn with our community in order to ground our work and keep us focused on what matters: expanding the XR industry.
 
 ## <a name="value_e"></a>Lead with Data
 
-We believe in moving beyond opinions and approaching all decisions with data. Data creates transparency and aligns our team to work on the things with the largest impact.
+We believe in moving beyond opinions and approaching decisions with data. Data creates transparency and aligns our team to work on the things with the largest impact.
