@@ -23,7 +23,7 @@ Option 2:
 Our mission is to provide the world's best online resources and learning environment to help professionals develop the skills they need to create immersive AR/VR experiences.
 
 Option 3:
-We provide business professionals with the skills and expertise to design, develop and publish immersive experiences that transform the way people learn, work and play.
+Our mission is to provide professionals with the skills and expertise to design, develop and publish immersive experiences that transform the way people learn, work and play.
 
 
 ## <a name="values"></a>Values
