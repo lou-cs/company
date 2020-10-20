@@ -36,7 +36,7 @@ We believe that building a team with diverse life experiences, backgrounds and i
 
 ## <a name="value_b"></a>Ownership Mindset
 
-Our educational programs are grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
+Our mindset is grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
 
 ## <a name="value_c"></a>Curiosity
 
