@@ -28,7 +28,7 @@ Our mission is to provide professionals with the skills and expertise to design,
 
 ## <a name="values"></a>Values
 
-Circuit Stream's three values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead with Data](#value_e).
+Circuit Stream's values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead with Data](#value_e).
 
 ## <a name="value_a"></a>Diversity
 
@@ -36,7 +36,7 @@ We believe that building a team with diverse life experiences, backgrounds and i
 
 ## <a name="value_b"></a>Ownership Mindset
 
-The foundation of our programs are grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to own every element of our work, invest in getting things right, and to roll up our sleeves to help build a better learning experience.
+Our educational programs are grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
 
 ## <a name="value_c"></a>Curiosity
 
