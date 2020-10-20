@@ -8,42 +8,36 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
 - [Mission](url)
 - [Vision](url)
 - [Values](values)
-  - [Value A](#value_a)
-  - [Value B](#value_b)
-  - [Value C](#value_c)
-
-# About Circuit Stream
-
-This section describes Circuit Stream's business in a few sentences.
+  - [Diversity](#value_a)
+  - [Ownership Mindset](#value_b)
+  - [Curiosity](#value_c)
+  - [Share Everything You Learn](#value_d)
+  - [Lead with Data](#value_e)
 
 # Mission
 
-Circuit Stream's mission is XYZ.
+Circuit Stream's mission is to provide the world's best online resources for learning the skills to create immersive virtual and augmented reality experiences. 
 
-## <a name="values"></a>Values
+## <a name="values"></a>Our Values
 
-Circuit Stream's three values are [A](#value_a), [B](#value_b) and [C](#value_c).
+Circuit Stream's three values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead with Data](#value_e).
 
-## <a name="value_a"></a>Value A
+## <a name="value_a"></a>Diversity
 
-This section describes Value A in a few sentences.
+We believe that building a team with diverse life experiences, backgrounds and ideas is vital if we are going to impact a new generation of immersive technology.
 
-### Value A Sub-Heading
+## <a name="value_b"></a>Ownership Mindset
 
-There can be sub-headings nested under each value.
+The foundation of our programs are grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to own every element of our work, invest in getting things right, and to roll up our sleeves to help build a better learning experience.
 
-## <a name="value_b"></a>Value B
+## <a name="value_c"></a>Curiosity
 
-This section describes Value B in a few sentences.
+We believe in thinking flexibly, asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
 
-### Value B Sub-Heading
+## <a name="value_d"></a>Share Everything You Learn
 
-There can be sub-headings nested under each value.
+We believe every instructor should be regularly creating immersive content and sharing everything they learn in order to ground our work and keep us focused on what matters: our community launching great immersive experiences.
 
-## <a name="value_c"></a>Value C
+## <a name="value_e"></a>Lead with Data
 
-This section describes Value C in a few sentences.
-
-### Value-C-Sub-Heading
-
-There can be sub-headings nested under each value.
+We believe in moving beyond opinions and approaching all decisions with data. Data creates transparency and aligns our team to work on the things with the largest impact.
