@@ -12,7 +12,7 @@ This document outlines the mission, vision and values of [Circuit Stream](https:
   - [Ownership Mindset](#value_b)
   - [Curiosity](#value_c)
   - [Share Everything You Learn](#value_d)
-  - [Lead with Data](#value_e)
+  - [Lead through Data](#value_e)
 
 ## <a name="mission"></a>Mission
 
