@@ -38,9 +38,9 @@ We believe that building a team with diverse life experiences, backgrounds and i
 
 Our mindset is grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
 
-## <a name="value_c"></a>Structured Exploring
+## <a name="value_c"></a>Curiosity
 
-We believe in exploring, asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
+We believe in asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
 
 ## <a name="value_d"></a>Share Everything You Learn
 
