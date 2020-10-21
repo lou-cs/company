@@ -28,7 +28,7 @@ Our mission is to provide professionals with the skills and expertise to design,
 
 ## <a name="values"></a>Values
 
-Circuit Stream's values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead with Data](#value_e).
+Circuit Stream's values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead through Data](#value_e).
 
 ## <a name="value_a"></a>Diversity
 
@@ -44,7 +44,7 @@ We believe in asking questions, listening, iterating on ideas, and gathering fee
 
 ## <a name="value_d"></a>Share Everything You Learn
 
-We believe in openly sharing what we learn with our community, partners and the external XR industry to ground our work and keep us focused on what matters: advancing and enriching the careers of all XR creators.
+We believe in openly sharing what we learn with our community, partners and the external industry to ground our work and keep us focused on what matters: advancing and enriching the careers of all XR creators.
 
 ## <a name="value_e"></a>Lead through Data
 
