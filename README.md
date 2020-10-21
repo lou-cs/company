@@ -44,8 +44,8 @@ We believe in asking questions, listening, iterating on ideas, and gathering fee
 
 ## <a name="value_d"></a>Share Everything You Learn
 
-We believe our team should be regularly creating immersive content and sharing everything we learn with our community in order to ground our work and keep us focused on what matters: expanding the XR industry.
+We believe in openly sharing what we learn with our community, partners and the external XR industry to ground our work and keep us focused on what matters: advancing and enriching the careers of all XR creators.
 
-## <a name="value_e"></a>Lead with Data
+## <a name="value_e"></a>Lead through Data
 
 We believe in moving beyond opinions and approaching decisions with data. Data creates transparency and aligns our team to work on the things with the largest impact.
