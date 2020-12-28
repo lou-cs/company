@@ -24,7 +24,7 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-We believe in taking action when we see a problem and that it's better to deliver something that's real and can have an impact today, over something that is maybe perfectly delivered later. Work that's delivered can always be improved upon, non existent work can't be adjusted at all. 
+We believe in taking action when we see a problem and that it's better to deliver something real today, over something maybe perfectly delivered later. Work that's shipped can always be improved upon, non existent work can't be adjusted at all. 
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
