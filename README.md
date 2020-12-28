@@ -1,51 +1,47 @@
 # Welcome to Circuit Stream
 
-This document outlines the mission, vision and values of [Circuit Stream](https://circuitstream.com/).
+This document outlines the mission and values of [Circuit Stream](https://circuitstream.com/).
 
 # Company
 
 - [About Circuit Stream](url)
 - [Mission](#mission)
-- [Vision](url)
 - [Values](#values)
-  - [Diversity](#value_a)
+  - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
   - [Curiosity](#value_c)
-  - [Share Everything You Learn](#value_d)
+  - [Share What You Learn](#value_d)
   - [Lead through Data](#value_e)
+  - [Be Open](#value_f)
 
 ## <a name="mission"></a>Mission
 
-Option 1:
-Our mission is to provide the world's best online resources for learning the skills to create immersive experiences.
-
-Option 2:
-Our mission is to provide the world's best online resources and learning environment to help professionals develop the skills they need to create immersive AR/VR experiences.
-
-Option 3:
-Our mission is to provide professionals with the skills and expertise to design, develop and publish immersive experiences that transform the way people learn, work and play.
-
+Our mission is to provide the immersive technology industry's best knowledge and resources for learning the skills to create XR applications.
 
 ## <a name="values"></a>Values
 
-Circuit Stream's values are [Diversity](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead through Data](#value_e).
+Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share Everything You Learn](#value_d) and [Lead through Data](#value_e).
 
-## <a name="value_a"></a>Diversity
+## <a name="value_a"></a>Default to Action
 
-We believe that building a team with diverse life experiences, backgrounds and ideas is vital if we are going to impact a new generation of immersive technology.
+It's better to deliver something real today over something maybe better later. Work that's delivered can be improved upon, but non existent work can't be adjusted at all. 
 
 ## <a name="value_b"></a>Ownership Mindset
 
-Our mindset is grounded in creating learning opportunities that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
+Our mindset is grounded in creating educational experiences that resonate with our community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
 
 ## <a name="value_c"></a>Curiosity
 
-We believe in asking questions, listening, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
+We believe in asking the right questions, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
 
-## <a name="value_d"></a>Share Everything You Learn
+## <a name="value_d"></a>Share What You Learn
 
-We believe in openly sharing what we learn with our community, partners and the external industry to ground our work and keep us focused on what matters: advancing and enriching the careers of all XR creators.
+We believe in opnely sharing what we learn with our community, partners and the external industry to ground our work and keep us focused on what matters: helping all professionals working in XR.
 
 ## <a name="value_e"></a>Lead through Data
 
-We believe in moving beyond opinions and approaching decisions with data. Data creates transparency and aligns our team to work on the things with the largest impact.
+We believe in moving beyond opinions and approaching decisions with data. Data creates clarity and aligns our team to work on the things with the largest impact.
+
+## <a name="value_f"></a>Be Open
+
+We believe building a company where everyone can exchange informartion and ideas openly is vital if we are going to impact a new generation of immersive technology. 
