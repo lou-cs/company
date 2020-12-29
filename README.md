@@ -36,7 +36,7 @@ We believe in asking the right questions, iterating on ideas, and gathering feed
 
 ## <a name="value_d"></a>4. Share What You Learn
 
-We believe in openly sharing what we learn with our community, partners and the external industry to ground our work and keep us focused on what matters: helping all professionals working in XR.
+We believe in openly sharing what we learn with our community, partners and the external industry to ground our work and keep us focused on what matters: helping all professionals who are working in this new field.
 
 ## <a name="value_e"></a>5. Lead through Data
 
