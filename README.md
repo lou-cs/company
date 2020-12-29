@@ -32,7 +32,7 @@ Our mindset is grounded in doing work that resonates with the community, our tea
 
 ## <a name="value_c"></a>3. Curiosity
 
-We believe in the value of asking the right questions, iterating on ideas, and gathering feedback from our teammates and our community, as their voices form the foundation of our work.
+We believe in the value of asking the right questions, listening to new ideas, and gathering feedback from our teammates and our community, as their voices form the foundation of our work.
 
 ## <a name="value_d"></a>4. Share What You Learn
 
