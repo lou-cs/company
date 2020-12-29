@@ -24,11 +24,13 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action when we see a problem and putting our work out there early and often, knowing that we  will iterate to improve on it over time.
+It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action right away when we see a problem and putting our work out there early and often, knowing that we are changing regularly and will iterate to improve on it over time.
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
-Our mindset is grounded in doing work that resonates with the community, our team's goals and our individual interests. This drives us to roll up our sleeves and own every element of what we do.
+Our mindset is grounded in doing work that resonates with the community, our team's goals and our individual interests. This drives us to roll up our sleeves and own every element of what we do. 
+
+This also means that we expect a lot of autonomy from our teammates both in the work they do and in their own development. 
 
 ## <a name="value_c"></a>3. Curiosity
 
@@ -44,4 +46,8 @@ When making decisions, we prioritize using data to support opinions. Data create
 
 ## <a name="value_f"></a>6. Grow Through Feedback
 
-We believe in fostering a team where everyone welcomes feedback, personal development and opportunities for growth. All our teammates are smart, talented and have their own ambitions. By supporting eachother's growth, we can all achieve our goals and succeed.
+We believe that others have much to teach us and when we receive feedback, we take action right away to make improvements.
+
+Circuit Stream is a team of smart, talented and amibtious professionals spanning a diverse range of backgrounds and geographies. Throughout this team, we are committed to helping eachother achieve our goals and succeed.
+
+embrace new opportunities for growth
