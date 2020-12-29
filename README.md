@@ -36,7 +36,7 @@ We believe in the value of asking questions, iterating on ideas, and gathering f
 
 ## <a name="value_d"></a>4. Share What You Learn
 
-We believe in openly sharing everything we learn with our teammates, students and the industry in order to ground us in our work and keep us focused on what matters: *helping XR creators*.
+We believe in openly sharing what we learn with the XR industry in order to ground us in our work and keep us focused on what matters: helping build the next generation of immersive technology.
 
 ## <a name="value_e"></a>5. Lead Through Data
 
