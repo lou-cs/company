@@ -40,8 +40,10 @@ We believe in openly sharing what we learn with our community, partners and the 
 
 ## <a name="value_e"></a>5. Lead through Data
 
-We believe in moving beyond opinions and approaching decisions with data. Data creates clarity and aligns our team to work on the things with the largest impact.
+When making desions, we prioritize using data to support opinions. Data creates clarity and aligns our team to work on the things with the largest impact.
 
-## <a name="value_f"></a>6. Be Open
+## <a name="value_f"></a>6. Be Open [|| Grow through Feedback]
 
-We believe building a company where everyone can exchange informartion and ideas openly is vital if we are going to impact a new generation of immersive technology. 
+We believe building a company where everyone can exchange informartion and ideas openly is vital if we are going to shape a new generation of immersive technology.
+
+We believe in fostering a team where everyone embraces feedback, personal development and new opportunities. Wanting to support and see eacother succeed is vital if we we are going to impact a new generation of immersive technology.
