@@ -24,15 +24,15 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action when we see a problem and shipping early and often, knowing that we  will iterate to improve our work over time.
+It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action when we see a problem and putting our work out there early and often, knowing that we  will iterate to improve on it over time.
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
-Our mindset is grounded in doing work that resonates with the community and our individual interests. This drives us to roll up our sleeves and own every element of our work.
+Our mindset is grounded in doing work that resonates with the community, our team's goals and our individual interests. This drives us to roll up our sleeves and own every element of what we do.
 
 ## <a name="value_c"></a>3. Curiosity
 
-We believe in the value of asking questions, iterating on ideas, and gathering feedback from our teammates and community, as their voices form the foundation of our work.
+We believe in the value of asking the right questions, iterating on ideas, and gathering feedback from our teammates and our community, as their voices form the foundation of our work.
 
 ## <a name="value_d"></a>4. Share What You Learn
 
