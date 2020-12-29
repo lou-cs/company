@@ -24,7 +24,7 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action right away when we see a problem and putting our work out there early and often, knowing that we will iterate to improve on it over time.
+It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action right away when we see a problem and putting our work out there early and often, knowing that we will change frequently and will iterate to improve on it over time.
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
@@ -36,7 +36,7 @@ We believe in the value of asking the right questions, listening to new ideas, a
 
 ## <a name="value_d"></a>4. Share What You Learn
 
-We believe in openly sharing what we learn with the XR industry in order to ground us in our work and keep us focused on what matters: helping our students succeed and building a larger and stronger immersive technology ecoystem as a result.
+We believe in openly sharing what we learn with the XR industry in order to ground us in our work and keep us focused on what matters: helping our students succeed and building a larger and stronger ecoystem as a result.
 
 ## <a name="value_e"></a>5. Lead Through Data
 
