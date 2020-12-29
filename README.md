@@ -36,12 +36,12 @@ We believe in the value of asking questions, iterating on ideas, and gathering f
 
 ## <a name="value_d"></a>4. Share What You Learn
 
-We believe in openly sharing everything we learn with our teammates, students and the industry in order to ground us in our work and keep us focused on what matters: helping XR creators.
+We believe in openly sharing everything we learn with our teammates, students and the industry in order to ground us in our work and keep us focused on what matters: *helping XR creators*.
 
 ## <a name="value_e"></a>5. Lead through Data
 
-When making desions, we prioritize using data to support opinions. Data creates clarity and aligns our team to work on the things with the largest impact.
+When making decisions, we prioritize using data to support opinions. Data creates clarity and aligns our team to work on the things with the largest impact.
 
 ## <a name="value_f"></a>6. Grow through Feedback
 
-We believe in fostering a team where everyone welcomes feedback, personal development and opportunities for growth. Everyone has their own goals and ambitions, by supporting eachother we can all succeed.
+We believe in fostering a team where everyone welcomes feedback, personal development and opportunities for growth. All our teammates are smart, talented and have their own ambitions. By supporting eachother's growth, we can all achieve our goals and succeed.
