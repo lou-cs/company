@@ -11,8 +11,8 @@ This document outlines the mission and values of [Circuit Stream](https://circui
   - [Ownership Mindset](#value_b)
   - [Curiosity](#value_c)
   - [Share What You Learn](#value_d)
-  - [Lead through Data](#value_e)
-  - [Be Open](#value_f)
+  - [Lead Through Data](#value_e)
+  - [Grow Through Feedback](#value_f)
 
 ## <a name="mission"></a>Mission
 
@@ -20,7 +20,7 @@ Our mission is to provide the best knowledge and resources for learning to creat
 
 ## <a name="values"></a>Values
 
-Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share What You Learn](#value_d), [Lead through Data](#value_e) and [Be Open](#values_f).
+Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#value_b), [Curiosity](#value_c), [Share What You Learn](#value_d), [Lead Through Data](#value_e) and [Grow Through Feedback](#values_f).
 
 ## <a name="value_a"></a>1. Default to Action
 
@@ -38,10 +38,10 @@ We believe in the value of asking questions, iterating on ideas, and gathering f
 
 We believe in openly sharing everything we learn with our teammates, students and the industry in order to ground us in our work and keep us focused on what matters: *helping XR creators*.
 
-## <a name="value_e"></a>5. Lead through Data
+## <a name="value_e"></a>5. Lead Through Data
 
 When making decisions, we prioritize using data to support opinions. Data creates clarity and aligns our team to work on the things with the largest impact.
 
-## <a name="value_f"></a>6. Grow through Feedback
+## <a name="value_f"></a>6. Grow Through Feedback
 
 We believe in fostering a team where everyone welcomes feedback, personal development and opportunities for growth. All our teammates are smart, talented and have their own ambitions. By supporting eachother's growth, we can all achieve our goals and succeed.
