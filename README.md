@@ -16,7 +16,7 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-Our mission is to provide the best knowledge and resources within the immersive technology industry for learning the skills to create XR applications.
+Our mission is to provide the best knowledge and resources within the immersive technology industry for learning to create XR applications.
 
 ## <a name="values"></a>Values
 
@@ -24,7 +24,7 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-We believe in taking action when we see a problem and that it's better to deliver something real today, over something that's maybe better later. Work that's shipped can and should always be improved upon, non existent work can't be adjusted at all.
+It's better to deliver something real today, over something maybe better later. We prioritize execution, knowing that we can and will iterate to improve a solution over time, and when we see a problem, we take action whether it's our job or not.  
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
