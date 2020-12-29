@@ -44,4 +44,4 @@ When making decisions, we prioritize using data to support opinions. Data create
 
 ## <a name="value_f"></a>6. Grow Through Feedback
 
-We believe that others have much to teach us and when we receive feedback, we take action to make improvements. Circuit Stream is a team of smart, talented and motivated professioanls that support eachother's growth and success.  
+We believe that others have much to teach us and when we receive feedback, we take action to make improvements. We prioritize building a team that's highly talented, motivated, supportive and that always embraces opportunities for growth.
