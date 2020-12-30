@@ -6,6 +6,7 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 - [About Circuit Stream](url)
 - [Mission](#mission)
+- [Vision] (#vision)
 - [Values](#values)
   - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
@@ -16,7 +17,15 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-Our mission is to provide the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+Our mission is to provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+
+Who are our customers? They might be a creative, engineer, educator, product manager, designer, researcher, systems analyst or some other role. What binds them together is that they are building the next generation of XR applications that will change the way people work, learn, live and play.
+
+## <a name="vision"></a>Vision
+
+To be recognized globally as the foremost educational authority in XR; committed to providing the highest quality training, instruction and a comprehensive learning experience that prepares graduates for successful careers within immersive technology.
+
+Our current long term goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
 
 ## <a name="values"></a>Values
 
