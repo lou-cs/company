@@ -17,15 +17,17 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-To provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+To provide [learners] the best knowledge and resources for learning to create XR applications within the immersive technology industry.
 
-Who are our customers? They might be a creative, engineer, educator, product manager, designer, researcher, systems analyst or some other role. What binds them together is that they are building the next generation of XR applications that will change the way people work, learn, live and play.
+Who are these learners? They might be a creative, engineer, educator, product manager, designer, researcher, systems analyst or another role from a large organization or a small studio. What binds them together is that they are building the next generation of XR applications that will change the way people work, learn, live and play.
 
 ## <a name="vision"></a>Vision
 
 To be recognized globally as the foremost educational authority in XR; committed to providing the highest quality training, instruction and a comprehensive learning experience that prepares graduates for successful careers within immersive technology.
 
-Our long term goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
+Our long-range goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
+
+By reaching scale, we know that a lot more XR applications, experiences and content will be created. As a result, we will be actively extending the frontiers of XR technology. Focus on helping our learners larners, and everything else will follow. 
 
 ## <a name="values"></a>Values
 
