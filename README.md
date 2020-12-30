@@ -6,7 +6,7 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 - [About Circuit Stream](url)
 - [Mission](#mission)
-- [Vision] (#vision)
+- [Vision](#vision)
 - [Values](#values)
   - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
