@@ -7,6 +7,7 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 - [About Circuit Stream](url)
 - [Mission](#mission)
 - [Vision](#vision)
+- [Goals](#goals)
 - [Values](#values)
   - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
@@ -17,19 +18,21 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-To provide [learners] the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+To provide [customers] the best knowledge and access to resources for learning to create XR applications within the immersive technology industry.
 
-Who are these learners? They might be a creative, engineer, educator, product manager, designer, researcher, systems analyst or another role from a large organization or a small studio. What binds them together is that they are building the next generation of XR applications that will change the way people work, learn, live and play.
+Our customers include creatives, engineers, educators, product managers, designers, researchers, systems analysts and a range of other backgrounds that are gaining new skills whether they're working at a large organization, small studio or indepndently. What binds us all together is that we are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
 
 ## <a name="vision"></a>Vision
 
-To be recognized globally as the foremost educational authority in XR; committed to providing the highest quality training, instruction and a comprehensive learning experience that prepares graduates for successful careers within immersive technology.
+To be recognized globally as the foremost Workforce Accelerator for XR; committed to providing the highest quality skill-based training, knowledge and a comprehensive learning experience that prepares working professionals for new careers within immersive technology.
+
+## <a name="goals"></a>Goals
 
 Our long-range goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
 
 By reaching scale, we know that a lot more XR applications, experiences and content will be created. As a result, we will be actively extending the frontiers of XR technology.
 
-We must focus on growing the number of learners we help and how much we help them. Focus on our community, and everything else will follow.
+We must focus on growing the number of learners we help and the degree by which we help them. Focus on our community, and everything else will follow.
 
 ## <a name="values"></a>Values
 
