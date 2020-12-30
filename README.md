@@ -27,7 +27,9 @@ To be recognized globally as the foremost educational authority in XR; committed
 
 Our long-range goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
 
-By reaching scale, we know that a lot more XR applications, experiences and content will be created. As a result, we will be actively extending the frontiers of XR technology. Focus on helping our learners larners, and everything else will follow. 
+By reaching scale, we know that a lot more XR applications, experiences and content will be created. As a result, we will be actively extending the frontiers of XR technology.
+
+We must focus on growing the number of learners we help and how much we help them. Focus on our community, and everything else will follow.
 
 ## <a name="values"></a>Values
 
