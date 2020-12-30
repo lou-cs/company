@@ -25,7 +25,7 @@ Who are our customers? They might be a creative, engineer, educator, product man
 
 To be recognized globally as the foremost educational authority in XR; committed to providing the highest quality training, instruction and a comprehensive learning experience that prepares graduates for successful careers within immersive technology.
 
-Our current long term goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
+Our long term goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
 
 ## <a name="values"></a>Values
 
