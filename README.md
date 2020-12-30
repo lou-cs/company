@@ -17,7 +17,7 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-Our mission is to provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+To provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
 
 Who are our customers? They might be a creative, engineer, educator, product manager, designer, researcher, systems analyst or some other role. What binds them together is that they are building the next generation of XR applications that will change the way people work, learn, live and play.
 
