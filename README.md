@@ -27,22 +27,20 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 ## <a name="goals"></a>Long-term Goals
 
-*1. To scale from training over 300 customers in 2020, to training over 1000 customers in 2022.
+1. To scale from training over 300 customers in 2020, to training over 1000 customers in 2022. Continuing our growth trajectory will further strengthen Circuit Stream's mission of advancing the industry's frontiers and being the number one accelerator of ideas, skills and careers in the field of immersive technology.
 
-Continuing our growth trajectory will further strengthen Circuit Stream's mission of advancing the industry's frontiers and being the number one accelerator of ideas, skills and careers in the field of immersive technology.
+2. To provide the highest quality training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
 
-*2. To provide the highest quality training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
-
-*3. To continue helping alumni develop their ideas for XR applications and release them commercially
+3. To continue helping alumni develop their ideas for XR applications and release them commercially
 
 ## <a name="okrs"></a>OKRs - FY 2021
 
-*1. Earn $2M in gross education revenue bookings
-*2. Launch a full-time career course
-*3. Complete working partnerships with both Unity and SAIT
-*4. Achieve an NPS of greater than 50 across all educational services
-*5. Launch a community driven website at first just for alumni and then for anyone from the broader XR community
-*6. Improve team cohesion
+1. Earn $2M in gross education revenue bookings
+2. Launch a full-time career course
+3. Complete working partnerships with both Unity and SAIT
+4. Achieve an NPS of greater than 50 across all educational services
+5. Launch a community website just for alumni in phase 1 and then for anyone in the XR community in phase 2
+6. Improve team cohesion
 
 ## <a name="values"></a>Values
 
