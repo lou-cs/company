@@ -30,7 +30,9 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 Continuing our growth trajectory will further strengthen Circuit Stream's mission of advancing the industry's frontiers and being the number one accelerator of ideas, skills and careers in the field of immersive technology.
 
-*2. To provide the highest quality skill-based training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
+*2. To provide the highest quality training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
+
+*3. To continue helping alumni develop their ideas for XR applications and release them commercially
 
 ## <a name="values"></a>Values
 
