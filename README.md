@@ -26,13 +26,11 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 ## <a name="goals"></a>Goals
 
-*1. Our number one goal is to scale from training over 300 customers in 2020, to training over 1000 customers in 2022.
+*1. To scale from training over 300 customers in 2020, to training over 1000 customers in 2022.
 
 Continuing our growth trajectory will further strengthen Circuit Stream's mission of advancing the industry's frontiers and being the number one accelerator of ideas, skills and careers in the field of immersive technology.
 
-*2. To provide customers with the best knowledge and the latest resources that accelerate their ability to create XR applications. 
-
-*3. To provide a comprehensive learning experience and the highest quality, skill-based training that prepares working professionals for new careers within immersive technology.
+*2. To provide the highest quality skill-based training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
 
 ## <a name="values"></a>Values
 
