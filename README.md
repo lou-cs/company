@@ -18,23 +18,21 @@ This document outlines the mission and values of [Circuit Stream](https://circui
 
 ## <a name="mission"></a>Mission
 
-To provide [customers] the best knowledge and access to resources for learning to create XR applications within the immersive technology industry.
+To provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
 
-Our customers include creatives, engineers, educators, product managers, designers, researchers, systems analysts and a range of other backgrounds that are gaining new skills whether they're working at a large organization, small studio or indepndently. What binds us all together is that we are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
+Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
 
 ## <a name="vision"></a>Vision
 
 To be a Workforce Accelerator recognized globally as the foremost authority in XR.
 
-We are committed to providing the highest quality, skill-based training and a comprehensive learning experience to prepare working professionals for new careers within immersive technology.
+We are committed to providing a comprehensive learning experience and the highest quality, skill-based training that prepares working professionals for new careers within immersive technology.
 
 ## <a name="goals"></a>Goals
 
-Our long-range goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
+Our long-range goal is to train over 1000 learners annually by December 31, 2022.
 
-By reaching scale, a lot more XR applications, experiences and content will be created. As a result, we will be creating new jobs in XR and advancing the technology's frontiers.
-
-"Teachers should prepare the student for the student's future, not for the teacher's past." We take this philosophy to heart as we train today's professionals with tomorrow's skills. 
+By reaching scale, a lot more XR applications, experiences and content will be created. As a result, we will create new jobs in XR and advancing the technology’s frontiers.
 
 ## <a name="values"></a>Values
 
