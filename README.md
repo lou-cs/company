@@ -1,6 +1,6 @@
 # Welcome to Circuit Stream
 
-This document outlines the mission and values of [Circuit Stream](https://circuitstream.com/).
+This document outlines the mission, vision, goals and values of [Circuit Stream](https://circuitstream.com/).
 
 # Company
 
@@ -26,13 +26,13 @@ Our customers include creatives, engineers, educators, product managers, designe
 
 To be a Workforce Accelerator recognized globally as the foremost leader in XR.
 
-We are committed to providing a comprehensive learning experience and the highest quality, skill-based training that prepares working professionals for new careers within immersive technology.
+To provide a comprehensive learning experience and the highest quality, skill-based training to prepare working professionals for new careers within immersive technology.
 
 ## <a name="goals"></a>Goals
 
 Our long-range goal is to train over 1000 learners annually by December 31, 2022.
 
-By reaching scale, a lot more XR applications and jobs will be created, advancing the industry's frontiers.
+By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
 
 ## <a name="values"></a>Values
 
