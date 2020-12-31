@@ -18,13 +18,13 @@ This document outlines the mission, vision, goals and values of [Circuit Stream]
 
 ## <a name="mission"></a>Mission
 
-To provide customers the best knowledge and resources for learning to create XR applications within the immersive technology industry.
+To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications.
 
 Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
 
 ## <a name="vision"></a>Vision
-
-To be a Workforce Accelerator recognized globally as the foremost leader in XR.
+ 
+To be recognized globally as the number one workforce accelerator in XR.
 
 To provide a comprehensive learning experience and the highest quality, skill-based training to prepare working professionals for new careers within immersive technology.
 
