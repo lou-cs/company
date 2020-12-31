@@ -1,13 +1,14 @@
 # Welcome to Circuit Stream
 
-This document outlines the mission, vision, goals and values of [Circuit Stream](https://circuitstream.com/).
+This document outlines the mission, vision, long-term goals, OKRs and values of [Circuit Stream](https://circuitstream.com/).
 
 # Company
 
 - [About Circuit Stream](url)
 - [Mission](#mission)
 - [Vision](#vision)
-- [Goals](#goals)
+- [Long-term Goals](#goals)
+- [OKRs - FY 2021](#okrs)
 - [Values](#values)
   - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
@@ -33,6 +34,15 @@ Continuing our growth trajectory will further strengthen Circuit Stream's missio
 *2. To provide the highest quality training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
 
 *3. To continue helping alumni develop their ideas for XR applications and release them commercially
+
+## <a name="okrs"></a>OKRs - FY 2021
+
+*1.
+*2.
+*3.
+*4.
+*5.
+*6.
 
 ## <a name="values"></a>Values
 
