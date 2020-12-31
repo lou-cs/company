@@ -41,7 +41,7 @@ Continuing our growth trajectory will further strengthen Circuit Stream's missio
 *2. Launch a full-time career course
 *3. Complete working partnerships with both Unity and SAIT
 *4. Achieve an NPS of greater than 50 across all educational services
-*5. Launch a website for members of the XR community
+*5. Launch a community driven website at first just for alumni and then for anyone from the broader XR community
 *6. Improve team cohesion
 
 ## <a name="values"></a>Values
