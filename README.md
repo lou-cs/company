@@ -18,21 +18,23 @@ This document outlines the mission, vision, goals and values of [Circuit Stream]
 
 ## <a name="mission"></a>Mission
 
-To advance the frontiers of XR technology through knowledge transfer to our customers.
+To advance the frontiers of XR technology through active knowledge transfer to our customers.
 
 ## <a name="vision"></a>Vision
  
-To be recognized globally as the number one workforce accelerator in XR.
-
-To provide a comprehensive learning experience and the highest quality, skill-based training to prepare working professionals for new careers within immersive technology.
+To be recognized globally as the number one workforce accelerator in immersive technology.
 
 ## <a name="goals"></a>Goals
 
-Our long-range goal is to train over 1000 learners annually by December 31, 2022.
+1. Our long-range goal is to train over 1000 learners annually by December 31, 2022.
 
 By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
 
-To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications. Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play
+2. To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications.
+
+Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
+
+3. To provide a comprehensive learning experience and the highest quality, skill-based training to prepare working professionals for new careers within immersive technology.
 
 ## <a name="values"></a>Values
 
