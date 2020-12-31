@@ -24,15 +24,17 @@ Our customers include creatives, engineers, educators, product managers, designe
 
 ## <a name="vision"></a>Vision
 
-To be recognized globally as the foremost Workforce Accelerator for XR; committed to providing the highest quality skill-based training, knowledge and a comprehensive learning experience that prepares working professionals for new careers within immersive technology.
+To be a Workforce Accelerator recognized globally as the foremost authority in XR.
+
+We are committed to providing the highest quality, skill-based training and a comprehensive learning experience to prepare working professionals for new careers within immersive technology.
 
 ## <a name="goals"></a>Goals
 
 Our long-range goal is to reach over 1000 learners annually with instructor-led courses by December 31, 2022.
 
-By reaching scale, we know that a lot more XR applications, experiences and content will be created. As a result, we will be actively extending the frontiers of XR technology.
+By reaching scale, a lot more XR applications, experiences and content will be created. As a result, we will be creating new jobs in XR and advancing the technology's frontiers.
 
-We must focus on growing the number of learners we help and the degree by which we help them. Focus on our community, and everything else will follow.
+"Teachers should prepare the student for the student's future, not for the teacher's past." We take this philosophy to heart as we train today's professionals with tomorrow's skills. 
 
 ## <a name="values"></a>Values
 
