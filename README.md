@@ -26,15 +26,13 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 ## <a name="goals"></a>Goals
 
-1. Our goal is to train over 1000 customers per year.
+*1. Our goal is to grow from training over 300 customers in 2020, to over 1000 customers in 2022. By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
 
-By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
-
-2. To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications.
+*2. To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications. 
 
 Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
 
-3. To provide a comprehensive learning experience and the highest quality, skill-based training to prepare working professionals for new careers within immersive technology.
+*3. To provide a comprehensive learning experience and the highest quality, skill-based training that prepares working professionals for new careers within immersive technology.
 
 ## <a name="values"></a>Values
 
