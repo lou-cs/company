@@ -26,7 +26,7 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 ## <a name="goals"></a>Goals
 
-1. Our long-range goal is to train over 1000 learners annually by December 31, 2022.
+1. Our goal is to train over 1000 customers per year.
 
 By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
 
