@@ -25,7 +25,7 @@ Provide the best knowledge and resources that empowers people to build XR applic
  
 To be recognized globally as the number one workforce accelerator in immersive technology.
 
-## <a name="goals"></a>Goals
+## <a name="goals"></a>Long-term Goals
 
 *1. To scale from training over 300 customers in 2020, to training over 1000 customers in 2022.
 
@@ -37,12 +37,12 @@ Continuing our growth trajectory will further strengthen Circuit Stream's missio
 
 ## <a name="okrs"></a>OKRs - FY 2021
 
-*1.
-*2.
-*3.
-*4.
-*5.
-*6.
+*1. Earn $2M in gross education revenue bookings
+*2. Launch a full-time career course
+*3. Complete working partnerships with both Unity and SAIT
+*4. Achieve an NPS of greater than 50 across all educational services
+*5. Launch a website for members of the XR community
+*6. Improve team cohesion
 
 ## <a name="values"></a>Values
 
