@@ -18,9 +18,7 @@ This document outlines the mission, vision, goals and values of [Circuit Stream]
 
 ## <a name="mission"></a>Mission
 
-To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications.
-
-Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
+To advance the frontiers of XR technology through knowledge transfer to our customers.
 
 ## <a name="vision"></a>Vision
  
@@ -33,6 +31,8 @@ To provide a comprehensive learning experience and the highest quality, skill-ba
 Our long-range goal is to train over 1000 learners annually by December 31, 2022.
 
 By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
+
+To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications. Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play
 
 ## <a name="values"></a>Values
 
