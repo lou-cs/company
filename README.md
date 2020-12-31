@@ -30,7 +30,7 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 By reaching scale, we will truly advance the industry's frontiers by helping create a lot more XR applications and jobs.
 
-*2. To provide customers with the best knowledge and the latest resources for accelerating their ability to create XR applications. 
+*2. To provide customers with the best knowledge and the latest resources that accelerate their ability to create XR applications. 
 
 Our customers include creatives, engineers, educators, product managers, designers, researchers and a range of other roles from both large organizations and small companies. What binds them all together is that they are collectively building the next generation of XR applications that will change the way people work, learn, live and play.
 
