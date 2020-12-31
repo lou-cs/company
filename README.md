@@ -18,7 +18,7 @@ This document outlines the mission, vision, goals and values of [Circuit Stream]
 
 ## <a name="mission"></a>Mission
 
-To advance the frontiers of XR technology through active knowledge transfer to our customers.
+Provide the best knowledge and resources that empowers people to build XR applications that positively change how we experience the world.
 
 ## <a name="vision"></a>Vision
  
