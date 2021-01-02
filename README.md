@@ -27,7 +27,7 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 ## <a name="goals"></a>Long-term Goals
 
-1. To scale training 350 customers in FY 2021, to training over 1000 customers in FY 2023.
+1. To scale training 350 customers in FY 2021, to training over 1500 customers in FY 2023.
 
 ## <a name="okrs"></a>Objectives and Key Results (OKRs) - FY 2021
 
