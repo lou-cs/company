@@ -29,8 +29,6 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 1. To scale from training over 350 customers in FY 2021, to training over 1000 customers in FY 2023.
 
-2. To provide the highest quality training and a comprehensive learning experience that prepares customers for new careers within immersive technology.
-
 ## <a name="okrs"></a>OKRs - FY 2021
 
 1. Earn $2M in gross education revenue bookings
