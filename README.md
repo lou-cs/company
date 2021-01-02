@@ -35,7 +35,7 @@ To be recognized globally as the number one workforce accelerator in immersive t
 2. Launch a full-time career course
 3. Complete working partnerships with both Unity and SAIT
 4. Achieve an NPS of greater than 50 across all educational services
-5. Launch a community website just for alumni in phase 1 and then for anyone in the XR community in phase 2
+5. Launch a community website that is just for alumni to start and that is subsequently opened up to anyone in the XR community
 6. Improve team cohesion
 
 ## <a name="values"></a>Values
