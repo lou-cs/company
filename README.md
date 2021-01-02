@@ -29,7 +29,7 @@ To be recognized globally as the number one workforce accelerator in immersive t
 
 1. To scale training 350 customers in FY 2021, to training over 1000 customers in FY 2023.
 
-## <a name="okrs"></a>OKRs - FY 2021
+## <a name="okrs"></a>Objectives and Key Results (OKRs) - FY 2021
 
 1. Earn $2M in gross education revenue bookings
 2. Launch a full-time career course
@@ -44,7 +44,7 @@ Circuit Stream's values are [Default to Action](#value_a), [Ownership Mindset](#
 
 ## <a name="value_a"></a>1. Default to Action
 
-It's better to deliver something good today than to deliver something perfect tomorrow. We prioritize taking action right away when we see a problem and putting our work out there early and often, knowing that we will change regularly and will iterate to improve on it over time.
+We prioritize taking action right away when we see a problem and putting our work out there early and often, knowing that we will change regularly and will iterate to improve on it over time.
 
 ## <a name="value_b"></a>2. Ownership Mindset
 
