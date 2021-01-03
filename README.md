@@ -25,11 +25,12 @@ To empower customers to build XR applications that advance the industry's fronti
  
 To be recognized globally as the number one workforce accelerator in immersive technology.
 
-## <a name="goals"></a>Long-term Goals
+## <a name="goals"></a>Long-term Goals [Leadership]
 
 1. To scale training 350 customers in FY 2021, to training over 1500 customers in FY 2023.
-2. To grow our education business to $10M annual revenue by FYE 2024.
-3. To reach a liquidity event.
+2. To be the first company to launch a bootcamp for XR in partnership with Universities
+3. To grow our education business to $10M annual revenue by FYE 2024.
+4. To reach a liquidity event.
 
 ## <a name="okrs"></a>Objectives and Key Results (OKRs) - FY 2021
 
