@@ -19,7 +19,7 @@ This document outlines the mission, vision, long-term goals, OKRs and values of 
 
 ## <a name="mission"></a>Mission
 
-To empower customers to build XR applications that advance the industry's frontiers.
+To empower people to build XR applications that advance the industry's frontiers.
 
 ## <a name="vision"></a>Vision
  
