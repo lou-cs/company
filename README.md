@@ -8,7 +8,6 @@ This document outlines the mission, vision, long-term goals, OKRs and values of 
 - [Mission](#mission)
 - [Vision](#vision)
 - [Long-term Goals](#goals)
-- [OKRs - FY 2021](#okrs)
 - [Values](#values)
   - [Default to Action](#value_a)
   - [Ownership Mindset](#value_b)
@@ -29,15 +28,6 @@ To be recognized globally as the number one workforce accelerator in immersive t
 ## <a name="goals"></a>Long-term Goals [Leadership]
 
 1. To scale training 350 customers in FY 2021, to training over 1500 customers in FY 2023
-
-## <a name="okrs"></a>Objectives and Key Results (OKRs) - FY 2021
-
-1. Earn $2M in gross education revenue bookings
-2. Launch a full-time career course
-3. Complete working partnerships with both Unity and SAIT
-4. Achieve an NPS of greater than 50 across all educational services
-5. Launch a community website that is just for alumni to start and that is subsequently opened up to anyone in the XR community
-6. Improve team cohesion
 
 ## <a name="values"></a>Values
 
